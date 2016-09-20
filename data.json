@@ -2790,5 +2790,10 @@
     "url":"http://iReact.cn/",
     "des":"React是Facebook开源的前段开发框架，iReact是收集Github上开源的react组件库，方便用户查询需要的组件。辅助开发工作。",
     "tags":["react","component", "iReact", "react组件"]
+},{
+    "name":"One div - The single element HTML/CSS icon database",
+    "url":"http://one-div.com/",
+    "des":"一个使用纯 CSS 和一个 《div》 标签元素创建图标的案例合集",
+    "tags":["html","css"]
 }]
 
